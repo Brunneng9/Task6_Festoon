@@ -11,7 +11,7 @@ namespace Task6_Festoon
         public static int EnterValue()
         {
        
-            Console.WriteLine("Enter number of bulbs in regular festoon");
+            Console.WriteLine("Enter number of bulbs in festoon");
             int enteredValue;
             while (true)
             {
